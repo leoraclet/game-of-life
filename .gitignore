@@ -3,3 +3,5 @@
 
 # CLion project settings folder
 /.idea
+
+.history/

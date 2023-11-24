@@ -1,3 +1,4 @@
+<div align="justify">
 # Game of life
 
 ![License](https://img.shields.io/github/license/leoraclet/cpp-skeleton)
@@ -40,3 +41,4 @@ it yourself, go see the
 ## Credits
 
 * [**Léo Raclet**](https://github.com/leoraclet) : Creator of the project.
+</div>
