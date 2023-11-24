@@ -1,4 +1,5 @@
 <div align="justify">
+
 # Game of life
 
 ![License](https://img.shields.io/github/license/leoraclet/cpp-skeleton)
