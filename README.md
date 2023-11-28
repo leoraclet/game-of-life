@@ -6,6 +6,10 @@
 
 This simple C / C++ program simulates the famous **Game of Life** which is a cellular automaton invented by Cambridge mathematician John Conway.
 
+<div align="center">
+<img style="border-radius: 50px;" src="https://github.com/leoraclet/game-of-life/assets/110538448/57138904-2ee0-455c-ad3b-648cce940532" />
+</div>
+
 ## Summary
 
 * **[About](#about)**
